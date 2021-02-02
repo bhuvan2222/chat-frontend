@@ -22,7 +22,7 @@ function App() {
          <Route path="/chatpage">
            <ChatPage />
            </Route>
-         <Route path="/"  component={Login}   />
+         <Route path="/"  component={ChatPage}   />
 
 
 
